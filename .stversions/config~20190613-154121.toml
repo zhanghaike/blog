@@ -2,8 +2,8 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://zhanghaike.github,io/"
-title = "海科－记录生活"
+baseURL = "https://zhanghaike.github.io/"
+title = "海科"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -55,14 +55,14 @@ defaultContentLanguage = "en"           # Default language to use
 
 
 [params]
-  since = "201９"            # Site creation time          # 站点建立时间
+  since = "2017"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "海科的记录"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["张海科", "中医","linux"]
-  description = "一个记录张海科日常的博客"
+  logoTitle = "海科"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Hugo", "theme","jane"]
+  description = "Hugo theme jane example site."
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
@@ -81,7 +81,7 @@ defaultContentLanguage = "en"           # Default language to use
   [params.social]                                         # 社交链接
 #    a-email = "mailto:your@email.com"
 #    b-stack-overflow = "http://localhost:1313"
-#    c-twitter = "http://localhost:1313"
+#  c-twitter = "http://localhost:1313"
 #    d-facebook = "http://localhost:1313"
 #    e-linkedin = "http://localhost:1313"
 #    f-google = "http://localhost:1313"
