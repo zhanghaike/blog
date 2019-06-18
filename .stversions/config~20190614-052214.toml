@@ -44,7 +44,7 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "归档"
+  name = "Categories"
   weight = 40
   identifier = "categories"
   url = "/categories/"
